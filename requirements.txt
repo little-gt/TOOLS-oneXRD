@@ -1,0 +1,6 @@
+customtkinter
+numpy
+pandas
+matplotlib
+pymatgen
+scipy
